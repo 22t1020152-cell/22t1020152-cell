@@ -1,16 +1,16 @@
-# About me
+# flutter_application_2
 
+A new Flutter project.
 
-**22t1020152-cell/22t1020152-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Getting Started
 
-Here are some ideas to get you started:
+This project is a starting point for a Flutter application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
